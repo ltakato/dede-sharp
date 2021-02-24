@@ -5,6 +5,7 @@ O "Dedé#" (pronuncia-se "dedé sharp") é uma linguagem utilizada pelo André J
 Exemplos:  
 - "C#" (pronuncia-se "c sharp") => "Ze Jarb"
 - "Mario Bros" => "Bario Broz"
+- "Bacon" => "Bagon"
 - "Gustavo" => "Guzdavo"
 - "Takato" => "Dagado"
 - "Kaori" => "Gaori"
